@@ -1,4 +1,4 @@
-#Myles' Stock Market QA System
+#Myles' Keybaord Prediction System
 #UD CISC882 - Dr. Kathleen Mccoy -  NLP Assignment #2 - Due 11/1/16
 #Code written entirely by Myles Johnson-Gray (mjgray@udel.edu)
 
